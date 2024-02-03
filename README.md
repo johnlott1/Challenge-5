@@ -14,4 +14,4 @@
 ![Work Day Scheduler Homepage](assets/images/workdayscheduler2.png)
 
 ## Link to Portfolio Website
-[Deployed Website](johnlott1.github.io/Challenge-5/)
+[Deployed Website](https://johnlott1.github.io/Challenge-5/)
